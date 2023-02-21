@@ -13,7 +13,7 @@
     "nodemon": "latest",
     "serve-index": "latest",
     "yt-search": "latest",
-    "ytdl-core": "github:GreepTheSheep/node-ytdl-core"
+    "ytdl-core": "github:fent/node-ytdl-core"
   },
   "scripts": {
     "start": "node index.js"
